@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://Jihyuncindyhur.github.io/sitemap.xml
