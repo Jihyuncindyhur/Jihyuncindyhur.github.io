@@ -18,7 +18,7 @@
       <pubDate>Sat, 24 Aug 2019 23:19:37 +0900</pubDate>
       <guid>https://Jihyuncindyhur.github.io/post/abcdworkshop/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve spent an amazing week at the Adolescent Brain Cognitive Development workshop held in Portland, Oregon!&lt;/p&gt;
-&lt;p&gt;The workshop focused on reproducible neuroimaing methods, predictive modelling approaches, and clincial menal health outcomes.&lt;/p&gt;
+&lt;p&gt;The workshop focused on reproducible neuroimaing methods, predictive modeling approaches, and clincial menal health outcomes.&lt;/p&gt;
 &lt;p&gt;During the workshop, I had an opportunity to learn connectotyping, a novel approach to characterize resting-state functional connectivity, from Dr. Oscar Miranda-Dominguez.&lt;/p&gt;
 &lt;p&gt;Inspired by this concept, I suggested an open hackathon idea and formed a group of 5 to apply connectotyping and partial least squares regression (PLSR) to the ABCD and ABIDE data.&lt;/p&gt;
 &lt;p&gt;We fit the connectotyping data to PLSR to predict fluid intelligence scores in a data-driven approach. Interestingly, the preliminary result showed that the connectotyping data with the somatosensory cortex performed better than the null data.&lt;/p&gt;
