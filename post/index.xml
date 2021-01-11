@@ -5,20 +5,12 @@
     <link>https://Jihyuncindyhur.github.io/post/</link>
       <atom:link href="https://Jihyuncindyhur.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 23:19:47 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Nov 2019 23:05:42 +0900</lastBuildDate>
     <image>
       <url>https://Jihyuncindyhur.github.io/images/icon_huba1290056a9aa64b0b71a1bf18bd3dc1_31701_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://Jihyuncindyhur.github.io/post/</link>
     </image>
-    
-    <item>
-      <title>FNIRSworkshop</title>
-      <link>https://Jihyuncindyhur.github.io/post/fnirsworkshop/</link>
-      <pubDate>Mon, 11 Jan 2021 23:19:47 +0900</pubDate>
-      <guid>https://Jihyuncindyhur.github.io/post/fnirsworkshop/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Won First Place at Bouldering Competition!</title>
@@ -33,7 +25,7 @@
     </item>
     
     <item>
-      <title>ABCDworkshop</title>
+      <title>Got accepted to attend ABCD workshop in Portland!</title>
       <link>https://Jihyuncindyhur.github.io/post/abcdworkshop/</link>
       <pubDate>Sat, 24 Aug 2019 23:19:37 +0900</pubDate>
       <guid>https://Jihyuncindyhur.github.io/post/abcdworkshop/</guid>
@@ -42,7 +34,7 @@
 &lt;p&gt;During the workshop, I had an opportunity to learn connectotyping, a novel approach to characterize resting-state functional connectivity, from Dr. Oscar Miranda-Dominguez.&lt;/p&gt;
 &lt;p&gt;Inspired by this concept, I suggested an open hackathon idea and formed a group of 5 to apply connectotyping and partial least squares regression (PLSR) to the ABCD and ABIDE data.&lt;/p&gt;
 &lt;p&gt;We fit the connectotyping data to PLSR to predict fluid intelligence scores in a data-driven approach. Interestingly, the preliminary result showed that the connectotyping data with the somatosensory cortex performed better than the null data.&lt;/p&gt;
-&lt;p&gt;As we were not testing any specific hypotheses, the project had not been developed further. However, I still learned so much from this opportunity! I was truly grateful to work with dedicated scientists around the world :)&lt;/p&gt;
+&lt;p&gt;As we were not testing any specific hypotheses, the project had not been developed further. However, I still learned so much from this opportunity! Hope I can attend the next one soon :)&lt;/p&gt;
 </description>
     </item>
     
