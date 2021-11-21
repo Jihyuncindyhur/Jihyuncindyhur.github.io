@@ -1,63 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Presentations | JIHYUN</title>
+    <title>Recent &amp; Upcoming Talks | Academic</title>
     <link>https://Jihyuncindyhur.github.io/event/</link>
       <atom:link href="https://Jihyuncindyhur.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Presentations</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jan 2021 17:52:31 +0900</lastBuildDate>
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Jihyuncindyhur.github.io/images/icon_huba1290056a9aa64b0b71a1bf18bd3dc1_31701_512x512_fill_lanczos_center_2.png</url>
-      <title>Presentations</title>
+      <url>https://Jihyuncindyhur.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
       <link>https://Jihyuncindyhur.github.io/event/</link>
     </image>
     
     <item>
-      <title>State Anxiety and Model-Based Control</title>
-      <link>https://Jihyuncindyhur.github.io/event/2021-0113-hur-2021/</link>
-      <pubDate>Wed, 13 Jan 2021 17:52:31 +0900</pubDate>
-      <guid>https://Jihyuncindyhur.github.io/event/2021-0113-hur-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emotional Neglect and Depression</title>
-      <link>https://Jihyuncindyhur.github.io/event/2020-1005-hanson-2015/</link>
-      <pubDate>Mon, 05 Oct 2020 03:05:29 +0900</pubDate>
-      <guid>https://Jihyuncindyhur.github.io/event/2020-1005-hanson-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction on Real-Life Self-Control from Brain Activity</title>
-      <link>https://Jihyuncindyhur.github.io/event/2020-0727-kronke-2020/</link>
-      <pubDate>Mon, 27 Jul 2020 02:57:21 +0900</pubDate>
-      <guid>https://Jihyuncindyhur.github.io/event/2020-0727-kronke-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Circuitry of Fear Regulation</title>
-      <link>https://Jihyuncindyhur.github.io/event/2020-0713-delgado-2008/</link>
-      <pubDate>Mon, 13 Jul 2020 02:09:50 +0900</pubDate>
-      <guid>https://Jihyuncindyhur.github.io/event/2020-0713-delgado-2008/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Planning Fallacy</title>
-      <link>https://Jihyuncindyhur.github.io/event/2020-0706-buehler-1994/</link>
-      <pubDate>Mon, 06 Jul 2020 02:57:05 +0900</pubDate>
-      <guid>https://Jihyuncindyhur.github.io/event/2020-0706-buehler-1994/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clinical Predictive Modeling &amp; Biomarkers</title>
-      <link>https://Jihyuncindyhur.github.io/event/2020-0601-woo-2017/</link>
-      <pubDate>Mon, 01 Jun 2020 03:10:18 +0900</pubDate>
-      <guid>https://Jihyuncindyhur.github.io/event/2020-0601-woo-2017/</guid>
-      <description></description>
+      <title>Example Talk</title>
+      <link>https://Jihyuncindyhur.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://Jihyuncindyhur.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
