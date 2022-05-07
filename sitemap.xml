@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://Jihyuncindyhur.github.io/</loc>
-    <lastmod>2021-01-13T17:52:31+09:00</lastmod>
+    <lastmod>2021-11-09T10:10:31+09:00</lastmod>
   </url><url>
     <loc>https://Jihyuncindyhur.github.io/event/</loc>
-    <lastmod>2021-01-13T17:52:31+09:00</lastmod>
+    <lastmod>2021-11-09T10:10:31+09:00</lastmod>
+  </url><url>
+    <loc>https://Jihyuncindyhur.github.io/event/2021-1108-mensh-2021/</loc>
+    <lastmod>2021-11-09T10:10:31+09:00</lastmod>
   </url><url>
     <loc>https://Jihyuncindyhur.github.io/event/2021-0113-hur-2021/</loc>
     <lastmod>2021-01-13T17:52:31+09:00</lastmod>
@@ -44,7 +47,7 @@
     <loc>https://Jihyuncindyhur.github.io/author/jaeyeong-yang/</loc>
     <lastmod>2020-11-09T22:48:45+09:00</lastmod>
   </url><url>
-    <loc>https://Jihyuncindyhur.github.io/author/jihyun-hur/</loc>
+    <loc>https://Jihyuncindyhur.github.io/author/jihyun-k.-hur/</loc>
     <lastmod>2020-11-09T22:48:45+09:00</lastmod>
   </url><url>
     <loc>https://Jihyuncindyhur.github.io/tag/machine-learning/</loc>
@@ -83,6 +86,9 @@
     <loc>https://Jihyuncindyhur.github.io/category/climbing/</loc>
     <lastmod>2019-11-02T23:05:42+09:00</lastmod>
   </url><url>
+    <loc>https://Jihyuncindyhur.github.io/author/jihyun-hur/</loc>
+    <lastmod>2019-11-02T23:05:42+09:00</lastmod>
+  </url><url>
     <loc>https://Jihyuncindyhur.github.io/post/</loc>
     <lastmod>2019-11-02T23:05:42+09:00</lastmod>
   </url><url>
@@ -101,6 +107,6 @@
     <loc>https://Jihyuncindyhur.github.io/tag/workshop/</loc>
     <lastmod>2019-08-27T23:19:37+09:00</lastmod>
   </url><url>
-    <loc>https://Jihyuncindyhur.github.io/author/jihyun-hur/</loc>
+    <loc>https://Jihyuncindyhur.github.io/author/jihyun-k.-hur/</loc>
   </url>
 </urlset>
