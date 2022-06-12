@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Jihyuncindyhur.github.io/authors/</loc>
+    <lastmod>2022-06-11T15:30:42+09:00</lastmod>
+  </url><url>
+    <loc>https://Jihyuncindyhur.github.io/categories/</loc>
+    <lastmod>2022-06-11T15:30:42+09:00</lastmod>
+  </url><url>
+    <loc>https://Jihyuncindyhur.github.io/tag/conference/</loc>
+    <lastmod>2022-06-11T15:30:42+09:00</lastmod>
+  </url><url>
+    <loc>https://Jihyuncindyhur.github.io/category/conference/</loc>
+    <lastmod>2022-06-11T15:30:42+09:00</lastmod>
+  </url><url>
+    <loc>https://Jihyuncindyhur.github.io/post/rldm2022/</loc>
+    <lastmod>2022-06-11T15:30:42+09:00</lastmod>
+  </url><url>
     <loc>https://Jihyuncindyhur.github.io/</loc>
-    <lastmod>2021-11-09T10:10:31+09:00</lastmod>
+    <lastmod>2022-06-11T15:30:42+09:00</lastmod>
+  </url><url>
+    <loc>https://Jihyuncindyhur.github.io/author/jihyun-hur/</loc>
+    <lastmod>2022-06-11T15:30:42+09:00</lastmod>
+  </url><url>
+    <loc>https://Jihyuncindyhur.github.io/post/</loc>
+    <lastmod>2022-06-11T15:30:42+09:00</lastmod>
+  </url><url>
+    <loc>https://Jihyuncindyhur.github.io/tag/research/</loc>
+    <lastmod>2022-06-11T15:30:42+09:00</lastmod>
+  </url><url>
+    <loc>https://Jihyuncindyhur.github.io/category/research/</loc>
+    <lastmod>2022-06-11T15:30:42+09:00</lastmod>
+  </url><url>
+    <loc>https://Jihyuncindyhur.github.io/tags/</loc>
+    <lastmod>2022-06-11T15:30:42+09:00</lastmod>
   </url><url>
     <loc>https://Jihyuncindyhur.github.io/event/</loc>
     <lastmod>2021-11-09T10:10:31+09:00</lastmod>
@@ -15,12 +45,6 @@
     <lastmod>2021-01-13T17:52:31+09:00</lastmod>
   </url><url>
     <loc>https://Jihyuncindyhur.github.io/publication-type/1/</loc>
-    <lastmod>2020-11-09T22:48:45+09:00</lastmod>
-  </url><url>
-    <loc>https://Jihyuncindyhur.github.io/authors/</loc>
-    <lastmod>2020-11-09T22:48:45+09:00</lastmod>
-  </url><url>
-    <loc>https://Jihyuncindyhur.github.io/categories/</loc>
     <lastmod>2020-11-09T22:48:45+09:00</lastmod>
   </url><url>
     <loc>https://Jihyuncindyhur.github.io/tag/data-augmentation/</loc>
@@ -65,9 +89,6 @@
     <loc>https://Jihyuncindyhur.github.io/publication/</loc>
     <lastmod>2020-11-09T22:48:45+09:00</lastmod>
   </url><url>
-    <loc>https://Jihyuncindyhur.github.io/tags/</loc>
-    <lastmod>2020-11-09T22:48:45+09:00</lastmod>
-  </url><url>
     <loc>https://Jihyuncindyhur.github.io/author/woo-young-ahn/</loc>
     <lastmod>2020-11-09T22:48:45+09:00</lastmod>
   </url><url>
@@ -84,12 +105,6 @@
     <lastmod>2019-11-02T23:05:42+09:00</lastmod>
   </url><url>
     <loc>https://Jihyuncindyhur.github.io/category/climbing/</loc>
-    <lastmod>2019-11-02T23:05:42+09:00</lastmod>
-  </url><url>
-    <loc>https://Jihyuncindyhur.github.io/author/jihyun-hur/</loc>
-    <lastmod>2019-11-02T23:05:42+09:00</lastmod>
-  </url><url>
-    <loc>https://Jihyuncindyhur.github.io/post/</loc>
     <lastmod>2019-11-02T23:05:42+09:00</lastmod>
   </url><url>
     <loc>https://Jihyuncindyhur.github.io/tag/sport/</loc>
